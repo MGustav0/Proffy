@@ -1,10 +1,8 @@
 # Proffy WEB
 
-<p align="center">
-  ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
-  ![Badge](https://img.shields.io/badge/node-%3E%3D%2012.18.2-brightgreen)
-  ![Badge](https://img.shields.io/badge/SQLite-v3.33-lightblue)
-</p>
+![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
+![Badge](https://img.shields.io/badge/node-%3E%3D%2012.18.2-brightgreen)
+![Badge](https://img.shields.io/badge/SQLite-v3.33-lightblue)
 
 > Status do Projeto: ✔️ concluído
 
