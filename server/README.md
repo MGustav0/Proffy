@@ -28,8 +28,8 @@
 
 ## ✨ Pré-requisitos
 
-- ⚠️ [Node](https://nodejs.org/en/download/)
-- ⚠️ [Yarn](https://yarnpkg.com/getting-started/install)
+⚠️ [Node](https://nodejs.org/en/download/)
+⚠️ [Yarn](https://yarnpkg.com/getting-started/install)
 
 ❗️ Você precisará seguir os passos a seguir para poder rodar a aplicação na sua máquina.
 
