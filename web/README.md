@@ -1,4 +1,4 @@
-# Proffy Server
+# Proffy WEB
 
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet)
 ![Badge](https://img.shields.io/badge/node-%3E%3D%2012.18.2-brightgreen)
