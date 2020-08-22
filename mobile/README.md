@@ -1,6 +1,7 @@
-# Proffy Server
+# Proffy Mobile
 
-![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet)
+![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-React%20Native-blueviolet)
+![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-Expo-blue)
 ![Badge](https://img.shields.io/badge/node-%3E%3D%2012.18.2-brightgreen)
 ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 
@@ -26,12 +27,23 @@
 
 ⚠️ [Node](https://nodejs.org/en/download/)
 ⚠️ [Yarn](https://yarnpkg.com/getting-started/install)
+⚠️ [Expo](https://yarnpkg.com/getting-started/install)
 
 ## ▶️ Como rodar a aplicação
 
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn dev:server` no seu terminal para instalar todas as dependências.
+### Expo
 
-Pronto! Agora basta acessar a aplicação à partir do link: http://localhost:3000/
+1. Instale o [Expo](https://expo.io/learn).
+
+2. Vou mostrar como se usa com celular android:
+  - Instale o aplicativo a partir da [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
+  - Abra o aplicativo no smartphone
+
+### Continuando
+
+Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
+
+Digite  `yarn start` no terminal. Agora abrirá uma página do expo no seu navegador, abra o aplicativo baixado na loja do seu smartphone/tablet/emulador e escaneie o QR Code da página. Caso a aplicação não abra de imediato, dê um restart na aplicação. 
 
 ⚠️ Atenção! Para obter melhor experiência, execute o back-end também!
 
