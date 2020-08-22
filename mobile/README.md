@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/badge/node-%3E%3D%2012.18.2-brightgreen)
 ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 
-> Status do Projeto: (✔️ concluído ou 🚧 em desenvolvimento)
+> Status do Projeto: 🚧 em desenvolvimento
 
 ## Tópicos
 
