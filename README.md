@@ -68,13 +68,19 @@ Caso encontre algum problema, bug ou erro me conte [aqui]()!
 
 Caso queiram melhorar a aplicação sugiro implementar:
 
-- 🖊 Cadastro dos professores
-- 🖊 Cadastro dos alunos
-- 🖊 Página de perfil
-- 🖊 Página de edição de perfil
-- 🖊 Avaliação dos professores por meio de nota
-- 🖊 Comentários dos alunos aos professores
-- 🖊 Página de solução de problemas
+🖊 Cadastro dos professores
+
+🖊 Cadastro dos alunos
+
+🖊 Página de perfil
+
+🖊 Página de edição de perfil
+
+🖊 Avaliação dos professores por meio de nota
+
+🖊 Comentários dos alunos aos professores
+
+🖊 Página de solução de problemas
 
 ## 🐙 Desenvolvedor
 
