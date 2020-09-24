@@ -27,7 +27,7 @@
 ## 🔗 Descrição do projeto
 
 <p align="justify">
-  Este é um projeto para o NLW 2, a segunda semana <i>Next Level Week</i> da Rocketseat, nesta semana fizemos um aplicativo que conecta, de forma simples, um professor com um aluno. O professor se cadastra na aplicação e o aluno procura por um professor da matéria de seu interesse.
+  Este é um projeto para o NLW 2, a segunda semana <i>Next Level Week</i> da Rocketseat, nesta semana fizemos um aplicativo que conecta, de forma simples, um professor com um aluno. O professor se cadastra na aplicação via web e o aluno procura por um professor da matéria de seu interesse no app ou web!
 
   Este projeto foi construído sob tutoria da Recketseat utilizando as tecnologias: ReactJS, React Native, NodeJS, TypeScript, SQLite e KNex.
 </p>
@@ -54,11 +54,11 @@ Para rodar a aplicação basta acessar as pastas abaixo e seguir os respectivos 
 
 ### 🌐 Web
 
-<img src="" max-width="700" max-heigth="600" />
+<img src="https://github.com/MGustav0/Proffy/blob/master/extras/screenshots/web/01_-_dashboard.jpg" width="270" heigth="480" /> <img src="https://github.com/MGustav0/Proffy/blob/master/extras/screenshots/web/02_-_create_proffy.jpg" width="270" heigth="480" />
 
 ### 📱 Mobile
 
-<img src="" max-width="700" max-heigth="600" />
+<img src="https://github.com/MGustav0/Proffy/blob/master/extras/screenshots/mobile/01_-_dashboard.jpg" width="270" heigth="480" /> <img src="https://github.com/MGustav0/Proffy/blob/master/extras/screenshots/mobile/02_-_proffy.jpg" width="270" heigth="480" /> <img src="https://github.com/MGustav0/Proffy/blob/master/extras/screenshots/mobile/03_-_list_proffys.jpg" width="270" heigth="480" /> <img src="https://github.com/MGustav0/Proffy/blob/master/extras/screenshots/mobile/04_-_favorites.jpg" width="270" heigth="480" />
 
 ## ❗️ Resolvendo Problemas
 
